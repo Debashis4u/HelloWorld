@@ -1,0 +1,7 @@
+{
+    "name": "debashis/helloworld",
+    "description": "This is a test module",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
